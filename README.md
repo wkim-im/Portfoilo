@@ -48,7 +48,7 @@ ATmega128を用いた組み込みシステムの実習とプロジェクト
 
 ### 🟢 ISD (Intelligent System Design)
 知能システム設計の演習
-- **使用言語・ツール:** ARMアセンブリ, C言語, Keil
+- **使用言語・ツール:** ARMアセンブリ, Keil
 - **assembly code**  
   ARMアセンブリコード
 - **lab1 ~ lab4**  
