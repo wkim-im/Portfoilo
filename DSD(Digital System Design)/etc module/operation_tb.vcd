@@ -1,0 +1,66 @@
+$date
+	Wed Jun 04 20:46:27 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module operation_tb $end
+$var wire 16 ! AB_XOR [15:0] $end
+$var wire 16 " AB_OR [15:0] $end
+$var wire 16 # AB_AND [15:0] $end
+$var reg 16 $ A [15:0] $end
+$var reg 16 % B [15:0] $end
+$scope module uut $end
+$var wire 16 & A [15:0] $end
+$var wire 16 ' B [15:0] $end
+$var reg 16 ( AB_AND [15:0] $end
+$var reg 16 ) AB_OR [15:0] $end
+$var reg 16 * AB_XOR [15:0] $end
+$scope task bitwise_oper $end
+$var reg 16 + a [15:0] $end
+$var reg 16 , ab_and [15:0] $end
+$var reg 16 - ab_or [15:0] $end
+$var reg 16 . ab_xor [15:0] $end
+$var reg 16 / b [15:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b10 /
+bx .
+bx -
+bx ,
+b10 +
+bx *
+bx )
+bx (
+b10 '
+b10 &
+b10 %
+b10 $
+bx #
+bx "
+bx !
+$end
+#1
+b10 ,
+#2
+b11 $
+b11 &
+#3
+b10 -
+#4
+b0 .
+b10 "
+b10 )
+b10 #
+b10 (
+#12
