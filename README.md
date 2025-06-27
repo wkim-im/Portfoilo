@@ -8,6 +8,7 @@
 
 ### 🟢 DSD (Digital System Design)
 Verilogを用いたデジタル論理設計の実習およびプロジェクト
+- **使用言語・ツール:** Verilog HDL, Quartus Prime
 - **Behavioral Modeling**  
   動作レベルモデリングの例
 - **Dataflow Modeling**  
@@ -23,6 +24,7 @@ Verilogを用いたデジタル論理設計の実習およびプロジェクト
 
 ### 🟢 Embedded System
 ATmega128を用いた組み込みシステムの実習とプロジェクト
+- **使用言語・ツール:** C言語, AVR Studio
 - **lab1 ~ lab10**  
   各種周辺機器制御と応用
 - **Project**  
@@ -32,6 +34,7 @@ ATmega128を用いた組み込みシステムの実習とプロジェクト
 
 ### 🟢 IMC (In-Memory Computing)
 メモリベースコンピューティング回路の研究および資料
+- **使用言語・ツール:** SystemVerilog, Cadence Virtuoso
 - **IMC**  
   CIM（Computing-In-Memory）関連回路設計
 - **Virtuoso**  
@@ -45,6 +48,7 @@ ATmega128を用いた組み込みシステムの実習とプロジェクト
 
 ### 🟢 ISD (Intelligent System Design)
 知能システム設計の演習
+- **使用言語・ツール:** ARMアセンブリ, C言語, Keil
 - **assembly code**  
   ARMアセンブリコード
 - **lab1 ~ lab4**  
