@@ -6,7 +6,7 @@
 
 ---
 
-### 🟢 DSD (Digital System Design)
+###  DSD (Digital System Design)
 Verilogを用いたデジタル論理設計の実習およびプロジェクト
 - **使用言語・ツール:** Verilog HDL, Quartus Prime
 - **Behavioral Modeling**  
@@ -22,7 +22,7 @@ Verilogを用いたデジタル論理設計の実習およびプロジェクト
 
 ---
 
-### 🟢 Embedded System
+###  Embedded System
 ATmega128を用いた組み込みシステムの実習とプロジェクト
 - **使用言語・ツール:** C言語, AVR Studio
 - **lab1 ~ lab10**  
@@ -32,11 +32,13 @@ ATmega128を用いた組み込みシステムの実習とプロジェクト
 
 ---
 
-### 🟢 IMC (In-Memory Computing)
+###  IMC (In-Memory Computing)
 メモリベースコンピューティング回路の研究および資料
 - **使用言語・ツール:** SystemVerilog, Cadence Virtuoso
 - **IMC**  
   CIM（Computing-In-Memory）関連回路設計
+- **Python**  
+  Python 行列積
 - **Virtuoso**  
   Cadence Virtuoso設計データ
 - **論文資料**  
@@ -46,7 +48,7 @@ ATmega128を用いた組み込みシステムの実習とプロジェクト
 
 ---
 
-### 🟢 ISD (Intelligent System Design)
+###  ISD (Intelligent System Design)
 知能システム設計の演習
 - **使用言語・ツール:** ARMアセンブリ, Keil
 - **assembly code**  
@@ -56,12 +58,12 @@ ATmega128を用いた組み込みシステムの実習とプロジェクト
 
 ---
 
-## ✨ 利用方法
+##  利用方法
 このリポジトリに含まれている資料は、学習用途に制限してご利用ください。 ご質問などございましたら、下記メールアドレスまでご連絡ください。
 
-📧 メール: skdmlwka@gmail.com
+ メール: skdmlwka@gmail.com
 
 ---
 
-## 📜 ライセンス
+##  ライセンス
 本リポジトリに含まれるコードおよび資料は、非商用目的に限り自由に活用いただけます。
