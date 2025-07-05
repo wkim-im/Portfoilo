@@ -20,7 +20,7 @@ Verilog를 사용한 디지털 논리 설계 실습 및 프로젝트
   - `etc module`  
     기타 모듈
   - `Quartus LAB0 ~ LAB3`  
-    Quartus Prime을 활용한 연습 자료
+    Quartus Prime을 활용한 FPGA 예제제
 
 ---
 
@@ -48,9 +48,8 @@ ATmega128을 활용한 임베디드 시스템 실습 및 프로젝트
   - `Virtuoso`  
     Cadence Virtuoso 설계 데이터
   - `논문자료`  
-    관련 논문 요약
-  - `문제자료`  
-    발표 자료 및 문제
+  - `문제자료`
+  - `발표자료`  
 
 ---
 
