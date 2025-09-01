@@ -13,11 +13,11 @@ SRAM 기반 메모리 내부 연산장치 자료
 - **사용 언어/툴**: SystemVerilog, Cadence Virtuoso
 - **폴더 상세**
   - `IMC`  
-    IMC(In-Memory-Computing) 관련 회로 설계
+    system verilog를 사용하여 SRAM, Multiplier, Adder Tree, Accumulator 설계
   - `Python`  
     Python 행렬 곱 연산 스크립트
   - `Virtuoso`  
-    Cadence Virtuoso를 활용한 cell 및 block 설계(사진으로 대체)
+    Cadence Virtuoso와 Samsung 28nm 공정기술을 사용하여 cell 및 block 설계(사진으로 대체)
   - `논문자료`  
   - `문제자료`
   - `발표자료`  
