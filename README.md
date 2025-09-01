@@ -5,6 +5,24 @@
 ---
 
 ## 📁 폴더 구성
+---
+
+###  IMC (In-Memory Computing)
+메모리 기반 컴퓨팅 회로 연구 및 자료
+
+- **사용 언어/툴**: SystemVerilog, Cadence Virtuoso
+- **폴더 상세**
+  - `IMC`  
+    IMC(In-Memory-Computing) 관련 회로 설계
+  - `Python`  
+    Python 행렬 곱 연산 스크립트
+  - `Virtuoso`  
+    Cadence Virtuoso 설계 데이터
+  - `논문자료`  
+  - `문제자료`
+  - `발표자료`  
+
+---
 
 ###  DSD (Digital System Design)
 Verilog를 사용한 디지털 논리 설계 실습 및 프로젝트
@@ -34,22 +52,6 @@ ATmega128을 활용한 임베디드 시스템 실습 및 프로젝트
   - `Project`  
     종합 프로젝트 코드
 
----
-
-###  IMC (In-Memory Computing)
-메모리 기반 컴퓨팅 회로 연구 및 자료
-
-- **사용 언어/툴**: SystemVerilog, Cadence Virtuoso
-- **폴더 상세**
-  - `IMC`  
-    IMC(In-Memory-Computing) 관련 회로 설계
-  - `Python`  
-    Python 행렬 곱 연산 스크립트
-  - `Virtuoso`  
-    Cadence Virtuoso 설계 데이터
-  - `논문자료`  
-  - `문제자료`
-  - `발표자료`  
 
 ---
 
