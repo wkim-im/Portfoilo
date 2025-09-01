@@ -17,7 +17,7 @@ SRAM 기반 메모리 내부 연산장치 자료
   - `Python`  
     Python 행렬 곱 연산 스크립트
   - `Virtuoso`  
-    Cadence Virtuoso 설계 데이터
+    Cadence Virtuoso를 활용한 cell 및 block 설계
   - `논문자료`  
   - `문제자료`
   - `발표자료`  
