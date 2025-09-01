@@ -19,7 +19,7 @@ SRAM 기반 메모리 내부 연산장치 자료
   - `Virtuoso`  
     Cadence Virtuoso와 Samsung 28nm 공정기술을 사용하여 cell 및 block 설계(사진으로 대체)
   - `논문자료`  
-  - `문제자료`
+  - `문제 및 풀이`
   - `발표자료`  
 
 ---
