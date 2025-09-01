@@ -8,7 +8,7 @@
 ---
 
 ###  IMC (In-Memory Computing)
-메모리 기반 컴퓨팅 회로 연구 및 자료
+SRAM 기반 메모리 내부 연산장치 자료
 
 - **사용 언어/툴**: SystemVerilog, Cadence Virtuoso
 - **폴더 상세**
